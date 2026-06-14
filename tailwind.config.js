@@ -1,0 +1,1 @@
+module.exports={content:['./app/**/*.{js,jsx}','./components/**/*.{js,jsx}','./data/**/*.{js,jsx}'],theme:{extend:{colors:{canvas:'#000',panel:'#0A0A0A',line:'#1A1A1A',muted:'#8A8A8A'},fontFamily:{sans:['Inter','ui-sans-serif','system-ui']},backgroundImage:{grid:'linear-gradient(#1A1A1A 1px, transparent 1px), linear-gradient(90deg, #1A1A1A 1px, transparent 1px)'}}},plugins:[]};
